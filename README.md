@@ -1,5 +1,6 @@
 ### Hi there, I am Firuz 👋
 
+- 🌱 I’m currently learning Golang
 <!--
 **Firuz-JuraevML/Firuz-JuraevML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
