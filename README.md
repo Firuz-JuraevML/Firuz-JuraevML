@@ -1,7 +1,5 @@
 ### Hi there, I am Firuz 👋
 
-- 🌱 I’m currently learning Golang
-
 <a href="https://linkedin.com/in/firuzjuraev">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,6 +15,10 @@
 <a href="https://www.facebook.com/fijuraev/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br/>
+
+- 🌱 I’m currently learning Golang
+
 <!--
 **Firuz-JuraevML/Firuz-JuraevML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
