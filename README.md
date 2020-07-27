@@ -2,7 +2,21 @@
 
 - 🌱 I’m currently learning Golang
 
-[![Linkedin: Firuz-Juraev](https://img.shields.io/badge/-Firuz-Juraev-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firuzjuraev/)]
+<a href="https://linkedin.com/in/firuzjuraev">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Firuz-JuraevML">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/FiruzJuraev">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/fijuraev/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/fijuraev/">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <!--
 **Firuz-JuraevML/Firuz-JuraevML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
