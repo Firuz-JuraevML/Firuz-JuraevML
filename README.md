@@ -18,9 +18,7 @@
 
 <br/>
 <br/>
-
-- 🌱 I’m currently learning Golang
-- 🌱 I’m currently learning Deep Learning (Keras)
+- 🌱 I’m currently learning Deep Learning 
 <!--
 **Firuz-JuraevML/Firuz-JuraevML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
